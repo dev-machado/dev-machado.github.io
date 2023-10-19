@@ -68,8 +68,6 @@
       <h1>Bom dia flor do dia ♥</h1>
       <button onclick="fechar()">Fechar</button>
 	<img src="kuromi-getting-shy-pdlhnu9yza2zw3ml.gif" width="200"> 
-	    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fkuromi&psig=AOvVaw2ILYoS8Rtmh9wGIit9LSns&ust=1697819267233000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCZneTDgoIDFQAAAAAdAAAAABAE" width="200"> 
-	    https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fkuromi&psig=AOvVaw2ILYoS8Rtmh9wGIit9LSns&ust=1697819267233000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCZneTDgoIDFQAAAAAdAAAAABAE
     </div>
   </div>
 
