@@ -68,7 +68,6 @@
       <h1>Bom dia flor do dia ♥</h1>
       <button onclick="fechar()">Fechar</button>
 	<img src="kuromi-getting-shy-pdlhnu9yza2zw3ml.gif" width="100"> 
-	    https://github.com/dev-machado/dev-machado.github.io/blob/main/kuromi-getting-shy-pdlhnu9yza2zw3ml.gif?raw=true
     </div>
   </div>
 
