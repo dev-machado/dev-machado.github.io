@@ -9,6 +9,7 @@
 
     body {
       background-color: #fff;
+      background-image: url("kuromi-getting-shy-pdlhnu9yza2zw3ml.gif");
     }
 
     .pop-up {
@@ -18,6 +19,7 @@
       width: 100%;
       height: 100%;
       background-color: rgba(0, 0, 0, 0.5);
+      background-img
       display: none;
       background-image: url("");
       background-repeat: no-repeat;
